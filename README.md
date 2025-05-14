@@ -31,6 +31,7 @@ Um sistema simples de gerenciamento de estoque desenvolvido em Java, operado via
 *   Implementação de uma funcionalidade de busca/filtro de produtos.
 *   Interface gráfica de usuário (GUI) utilizando Swing ou JavaFX.
 
-*   ## 👨‍💻 Autor
+## 👨‍💻 Autor
 
-[Vinícius Zanella](https://github.com/viniciuszanella)
+Vinícius Zanella
+* [@viniciuszanella](https://github.com/viniciuszanella)
