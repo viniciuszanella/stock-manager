@@ -22,3 +22,15 @@ Um sistema simples de gerenciamento de estoque desenvolvido em Java, operado via
 *   **`java.util.Scanner`:** Para leitura de dados de entrada do usuário via console.
 *   **`java.util.ArrayList`:** Para armazenamento dos produtos em memória durante a execução do programa.
 *   **`java.time.LocalDate`:** Para manipulação de datas (utilizado na data de validade dos alimentos).
+
+## 💡 Possíveis Melhorias Futuras
+
+*   Persistência de dados (ex: salvar e carregar produtos de um arquivo CSV, TXT, JSON ou um banco de dados simples como SQLite).
+*   Validações de entrada mais robustas (ex: verificar se o preço é positivo, se o formato da data é válido antes de tentar o `parse`).
+*   Criação de testes unitários para as classes e métodos.
+*   Implementação de uma funcionalidade de busca/filtro de produtos.
+*   Interface gráfica de usuário (GUI) utilizando Swing ou JavaFX.
+
+*   ## 👨‍💻 Autor
+
+[Vinícius Zanella](https://github.com/viniciuszanella)
