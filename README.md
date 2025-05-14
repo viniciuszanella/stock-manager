@@ -25,11 +25,9 @@ Um sistema simples de gerenciamento de estoque desenvolvido em Java, operado via
 
 ## 💡 Possíveis Melhorias Futuras
 
-*   Persistência de dados (ex: salvar e carregar produtos de um arquivo CSV, TXT, JSON ou um banco de dados simples como SQLite).
-*   Validações de entrada mais robustas (ex: verificar se o preço é positivo, se o formato da data é válido antes de tentar o `parse`).
-*   Criação de testes unitários para as classes e métodos.
+*   Persistência de dados (ex: salvar e carregar produtos de um arquivo CSV, TXT, JSON ou um banco de dados simples como MySQL; atualmente utilizando ArrayList).
 *   Implementação de uma funcionalidade de busca/filtro de produtos.
-*   Interface gráfica de usuário (GUI) utilizando Swing ou JavaFX.
+*   Interface gráfica de usuário
 
 ## 👨‍💻 Autor
 
